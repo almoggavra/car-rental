@@ -8,7 +8,6 @@ Developed as a final project in the .NET web development course in John Bryce co
 - jQuery
 - Entity Framework
 
-### **[Click here for live demo!](http://www.reqso.com/)**
 
 ### Images:
 
